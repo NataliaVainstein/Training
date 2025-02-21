@@ -1,0 +1,18 @@
+# ignore all object files
+*.o
+*.out
+*.obj
+
+# ignore depends file
+depends
+
+#ignore executable files
+*.exe
+
+#ignore Visual Studio IDE Files and folder
+*.user
+*.pdb
+*.idb
+*.log
+x64/
+.vs/
